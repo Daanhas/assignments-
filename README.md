@@ -12,3 +12,5 @@ Assignments for programming
 [Assignment week 8](https://github.com/Daanhas/assignments-/blob/master/assignment5.ipynb)
 
 [Final python assignment](https://github.com/Daanhas/assignments-/blob/master/Final_Assignment_Python_1_students.ipynb)
+
+[Final R assignment](https://github.com/Daanhas/assignments-/blob/master/OECD_R_exam.ipynb)
